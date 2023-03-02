@@ -20,3 +20,18 @@
 .price {
   color: #ff136f;
 }
+.cat1 {
+  background-color: orange;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat2 {
+  background-color: orchid;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat3 {
+  background-color: blue;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
